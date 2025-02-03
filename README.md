@@ -57,3 +57,50 @@ The **toll amount** charges depending on the **vehicle type**:
 
 > [!NOTE] 
 If you can't install XAPP, you can also use another local server that supports MySQL and PHP.
+
+## :scroll: Installation
+
+### Step 1: Creating database
+
+Creating a database in **Admin** **SQL**.
+
+(insert screenshoot)
+
+### Step 2: Cloning repository
+
+```php
+https://github.com/ugotchriscoded/Tolls-and-Vehicles
+ ```
+
+ ### Step 3: Putting everything up to date
+
+In the *.env* file **remove** the *#* in these lines, enter the **name** of your **database** and **replace** *Laravel* with *sql*.
+
+<p align="center"><img width="287" alt="image" src="https://github.com/user-attachments/assets/bdfec806-cdcc-4a05-a6bf-43a59cc7658e"></p>
+
+### Server
+
+To **run the server** enter this command:
+
+```php
+npm run dev
+```
+
+(insert screenshoot)
+
+> [!WARNING]
+> **DON'T work** on that terminal again, but you should keep it working. **DON'T KILL IT.**
+
+To see the **running serve** enter the command:
+
+```php
+php artisan serve
+```
+(insert screenshoot)
+
+
+> [!NOTE]
+> If you press Control and click the link it should take you to the main offers.
+
+
+
