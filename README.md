@@ -103,4 +103,4 @@ php artisan serve
 > If you press Control and click the link it should take you to the main offers.
 
 
-
+## 📝 Documentation (Endpoints)
