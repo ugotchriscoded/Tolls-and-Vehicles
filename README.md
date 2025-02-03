@@ -43,3 +43,17 @@ The **toll amount** charges depending on the **vehicle type**:
 ## :file_folder: Jira Backlog
 
 (insert screenshoots)
+
+## :paperclip: Installation requirements
+:black_circle: XAMPP
+
+:black_circle: Composer
+
+:black_circle: Node.js (Installing NPM)
+
+:black_circle: Xdebug 
+
+:black_circle: Postman
+
+> [!NOTE] 
+If you can't install XAPP, you can also use another local server that supports MySQL and PHP.
