@@ -144,3 +144,6 @@ Developed by **Valeria Dobado Gonzalez**:
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='xampp' src='https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=xampp&logoColor=white&labelColor=000000&color=000000'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jira' src='https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=Jira&logoColor=white&labelColor=black&color=black'/></a>
 
+## Thanks for reading!
+
+Thanks for your attention, have a nice day! <3
