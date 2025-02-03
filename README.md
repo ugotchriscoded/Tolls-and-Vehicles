@@ -35,3 +35,11 @@ The **toll amount** charges depending on the **vehicle type**:
 - Print for each toll, 1 all the vehicles that have passed with their price and the total **(BLADE)**.
 - Print for each vehicle how much it has paid in pesetas in total adding all the pesetas through which it has passed.**(BLADE)**.
 - **Minimum** coverage 70%.
+
+## :eye_speech_bubble: Working app
+
+(insert screenshoots)
+
+## :file_folder: Jira Backlog
+
+(insert screenshoots)
