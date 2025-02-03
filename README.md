@@ -124,3 +124,8 @@ php artisan test --coverage
 ```
 
 (insert screenshoot)
+
+## Authors
+Developed by **Valeria Dobado Gonzalez**:
+- **Github**: *https://github.com/ugotchriscoded/ugotchriscoded*
+- **Linkendin**: *https://www.linkedin.com/in/valeria-dobado-gonzález-262060328/*
