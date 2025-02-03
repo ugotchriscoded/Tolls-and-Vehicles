@@ -27,3 +27,11 @@ The **toll amount** charges depending on the **vehicle type**:
 
 - *List of the vehicles that arrived at the toll.* 
 - *Total accumulated.*
+
+## Requirements:
+
+- **Database** design.
+- **API** to add the passage of a vehicle in one of the defined standards.
+- Print for each toll, 1 all the vehicles that have passed with their price and the total **(BLADE)**.
+- Print for each vehicle how much it has paid in pesetas in total adding all the pesetas through which it has passed.**(BLADE)**.
+- **Minimum** coverage 70%.
