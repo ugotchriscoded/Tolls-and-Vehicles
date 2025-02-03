@@ -42,7 +42,8 @@ The **toll amount** charges depending on the **vehicle type**:
 
 ## :file_folder: Jira Backlog
 
-(insert screenshoots)
+![tolls and vehicles jira](https://github.com/user-attachments/assets/4114f9c4-54aa-497b-a79b-ad837a84263c)
+
 
 ## :paperclip: Installation requirements
 :black_circle: XAMPP
